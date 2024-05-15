@@ -10,7 +10,7 @@ https://09-nextjs-database-zeta.vercel.app/
 
 Berhasil deploy di server Vercel
 
-![Screenshot (236)](//image/1%20(2).png)
+![Screenshot (236)](/image/1%20(2).png)
 
 `Soal 1. Jelaskan apa yang telah Anda pelajari?`
 Dengan memanfaatkan Vercel, pengembang dapat dengan mudah membangun, mendeploy, dan mengelola situs web serta aplikasi front-end. Setiap kali pengembang membuat perubahan pada proyek dan mengirimkannya ke repositori git, Vercel akan secara otomatis mendeteksi perubahan tersebut dan melakukan deploy baru hanya dalam hitungan detik. Ini memungkinkan pengembang untuk langsung melihat perubahan mereka di lingkungan produksi dengan cepat dan tanpa kesulitan.
